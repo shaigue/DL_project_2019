@@ -1,0 +1,10 @@
+notes on using cACGMM on data - 
+- use stft on the data, and crop it into the corect sizees
+- find out what is the required size
+- notice how the rows and columbs are arranged
+- what is beamforming, and is it better then masking?
+- how to do the permutation allignment seems complicated
+ *** try to use the built option and build an inline aligner
+-  inverse stft to get audio from furier transform. is it the best way?
+- what are the metrics being used? what do they mean?
+- stoi, mir_eval_sxr_sdr/sir/sar invasiv_sxr_/sdr/sir/snr

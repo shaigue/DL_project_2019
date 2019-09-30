@@ -1,0 +1,8 @@
+Some notes:
+
+when starting the jupyter note book some packages did not function.
+I used :
+base> activate your_env
+your_env> python -m ipykernel install --user --name your_env --display-name your_env
+
+in the conda env and then the kernall with my env appeared in jupyter lab

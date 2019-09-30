@@ -1,0 +1,14 @@
+cACGMM notes:
+
+- gives a time-frequancy mask for source seperation
+- models the data distribution better then previus algorithems
+- source seperationn based on masks. What are the other available methods?
+- directional statistics
+- Expectation Maximization problem - What it is?
+- How is the algorithem used for source seperation?
+- what is watson distribution?
+- what is maximum liklihood estimation method?
+- permutation problem - sience for each (f,t) bin the values are estimated independently, then we need to make sure that the same k is the same signal every time
+- what is complex Angular Central Gaussian distribution?
+- Swada's method for solving the permutation problem
+- 

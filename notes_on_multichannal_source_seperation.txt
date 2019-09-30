@@ -1,0 +1,28 @@
+- doing learining on the frequancy domain
+- multi channels filters
+- Gaussian model - how it is used to exploit spetial information?
+- iterative expectation maximization(EM) - what is this?
+- wiener filter - what is this?
+- when searching for an algorithem implementation, search github with keywords
+- short time furier transform
+- multivariate complex-valued zero-mean Gaussian distribution
+- power spectral density(PSD) ?
+- spatial covariance matrices ?
+- spatial source images?
+- spectogram fitting 
+- spectral models?
+- spectral parameters model [down]
+- NMF, KAM
+### important:
+- *** figure out equations 1.6,1.7,1.8
+- *** figure out algorithem 1
+- *** figure out section 1.3.3
+###
+- figure out how to model spectrogram initialization, and spectrogram fitting
+- how the model is relating to the PSD, and what exactly are the z_x and z_i 
+- more spectrogram initialization, less updating of spectral , more spetial components
+- how do you obtain the target v_j tilda?
+- whats JFN in the cost functions?
+- Algorithem 2 in the paper is actually the forward pass, recieving the input spectrogram and transforming ito seperate sources
+- What is DS beamforming, and how does it minimizes complex-values stfs?
+- 
